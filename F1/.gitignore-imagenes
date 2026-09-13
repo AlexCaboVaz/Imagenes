@@ -1,0 +1,16 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Cachés de Python
+__pycache__/
+*.pyc
+
+# Carpetas de prueba con imágenes (opcional: descomenta si no quieres subir tus fotos de prueba)
+# fotos/
+# salida/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
